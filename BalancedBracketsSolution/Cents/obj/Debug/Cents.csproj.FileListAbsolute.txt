@@ -1,0 +1,7 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\Cents\bin\Debug\Cents.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\Cents\bin\Debug\Cents.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\Cents\bin\Debug\Cents.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\Cents\obj\Debug\Cents.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\Cents\obj\Debug\Cents.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\Cents\obj\Debug\Cents.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\Cents\obj\Debug\Cents.pdb

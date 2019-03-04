@@ -1,0 +1,7 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\BalancedBrackets\bin\Debug\BalancedBrackets.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\BalancedBrackets\bin\Debug\BalancedBrackets.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\BalancedBrackets\bin\Debug\BalancedBrackets.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\BalancedBrackets\obj\Debug\BalancedBrackets.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\BalancedBrackets\obj\Debug\BalancedBrackets.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\BalancedBrackets\obj\Debug\BalancedBrackets.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs24Homework\BalancedBracketsSolution\BalancedBrackets\obj\Debug\BalancedBrackets.pdb
